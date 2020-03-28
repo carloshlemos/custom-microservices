@@ -1,0 +1,16 @@
+{
+    "port": ":8080",
+    "enableGinConsoleLog": true,
+    "enableGinFileLog": true,
+    
+    "logFilename": "logs/server.log",
+    "logMaxSize": 10,
+    "logMaxBackups": 10,
+    "logMaxAge": 30,
+
+    "pgAddrs": "localhost",
+    "pgPort": "5432",
+    "pgDbName": "postgres",
+    "pgDbUsername": "pgadmin",
+    "pgDbPassword": "Mcck6DVSFL77C3yf"
+}

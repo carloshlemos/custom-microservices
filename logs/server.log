@@ -1,0 +1,11 @@
+{"level":"debug","msg":"[INFO]: Chamou o serviço Test dentro do Custom!","time":"2020-03-11T15:03:51-03:00"}
+{"level":"debug","msg":"[INFO]: Chamou o serviço Test dentro do Custom!","time":"2020-03-11T15:04:43-03:00"}
+{"level":"debug","msg":"[INFO]: Chamou o serviço Test dentro do Custom!","time":"2020-03-11T16:03:07-03:00"}
+{"level":"debug","msg":"[INFO]: Chamou o serviço Test dentro do Custom!","time":"2020-03-11T16:03:29-03:00"}
+{"level":"debug","msg":"[INFO]: Chamou o serviço Test dentro do Custom!","time":"2020-03-11T16:03:33-03:00"}
+{"level":"debug","msg":"Não é possível conectar-se ao banco, erro: pq: SSL is not enabled on the server","time":"2020-03-12T10:15:39-03:00"}
+{"level":"debug","msg":"Não é possível conectar-se ao banco, erro: pq: SSL is not enabled on the server","time":"2020-03-12T10:18:01-03:00"}
+{"level":"debug","msg":"Não é possível conectar-se ao banco, erro: pq: SSL is not enabled on the server","time":"2020-03-12T10:20:28-03:00"}
+{"level":"debug","msg":"Não é possível conectar-se ao banco, erro: pq: password authentication failed for user \"pgadmin\"","time":"2020-03-28T19:52:54-03:00"}
+{"level":"debug","msg":"[INFO]: Chamou o serviço Test dentro do Custom!","time":"2020-03-28T19:57:07-03:00"}
+{"level":"debug","msg":"[INFO]: Chamou o serviço Test dentro do Custom!","time":"2020-03-28T19:58:07-03:00"}

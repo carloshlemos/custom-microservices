@@ -1,0 +1,55 @@
+{
+    "swagger": "2.0",
+    "info": {
+        "description": "Api de Teste com Golang + Gin Web(https://github.com/gin-gonic/gin)",
+        "title": "Experimento com Golang pra MicroServices",
+        "termsOfService": "http://swagger.io/terms/",
+        "contact": {},
+        "license": {},
+        "version": "1.0"
+    },
+    "host": "localhost:8080",
+    "basePath": "/api/v1",
+    "paths": {
+        "/test/hello": {
+            "get": {
+                "description": "Api de Teste com Golang + Gin Web(https://github.com/gin-gonic/gin)",
+                "produces": [
+                    "application/json"
+                ],
+                "tags": [
+                    "test"
+                ],
+                "summary": "Checa se o serviço está funcinando",
+                "responses": {
+                    "200": {},
+                    "401": {
+                        "description": "Unauthorized",
+                        "schema": {
+                            "$ref": "#/definitions/models.Error"
+                        }
+                    },
+                    "500": {
+                        "description": "Internal Server Error",
+                        "schema": {
+                            "$ref": "#/definitions/models.Error"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "definitions": {
+        "models.Error": {
+            "type": "object",
+            "properties": {
+                "código": {
+                    "type": "integer"
+                },
+                "mensagem": {
+                    "type": "string"
+                }
+            }
+        }
+    }
+}
