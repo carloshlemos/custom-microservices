@@ -2,7 +2,7 @@
     "swagger": "2.0",
     "info": {
         "description": "Api de Teste com Golang + Gin Web(https://github.com/gin-gonic/gin)",
-        "title": "Experimento com Golang pra MicroServices",
+        "title": "Experimento com Golang - MicroServices",
         "termsOfService": "http://swagger.io/terms/",
         "contact": {},
         "license": {},

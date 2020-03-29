@@ -9,3 +9,5 @@
 {"level":"debug","msg":"Não é possível conectar-se ao banco, erro: pq: password authentication failed for user \"pgadmin\"","time":"2020-03-28T19:52:54-03:00"}
 {"level":"debug","msg":"[INFO]: Chamou o serviço Test dentro do Custom!","time":"2020-03-28T19:57:07-03:00"}
 {"level":"debug","msg":"[INFO]: Chamou o serviço Test dentro do Custom!","time":"2020-03-28T19:58:07-03:00"}
+{"level":"debug","msg":"[INFO]: Chamou o serviço Test dentro do Custom!","time":"2020-03-28T20:08:26-03:00"}
+{"level":"debug","msg":"[INFO]: Chamou o serviço Test dentro do Custom!","time":"2020-03-28T20:09:25-03:00"}

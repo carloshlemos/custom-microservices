@@ -7,12 +7,10 @@
 [GIN-debug] GET    /api/v1/test/hello        --> _/home/carloshlemos/workspace/custom-microservice/controllers.(*Custom).Test-fm (3 handlers)
 [GIN-debug] GET    /swagger/*any             --> github.com/swaggo/gin-swagger.CustomWrapHandler.func1 (3 handlers)
 [GIN-debug] Listening and serving HTTP on :8080
-[GIN] 2020/03/28 - 19:58:03 | 200 |      841.13µs |             ::1 | GET      "/swagger/index.html"
-[GIN] 2020/03/28 - 19:58:03 | 200 |     178.659µs |             ::1 | GET      "/swagger/swagger-ui.css"
-[GIN] 2020/03/28 - 19:58:03 | 200 |     307.545µs |             ::1 | GET      "/swagger/swagger-ui-standalone-preset.js"
-[GIN] 2020/03/28 - 19:58:03 | 200 |     837.452µs |             ::1 | GET      "/swagger/swagger-ui-bundle.js"
-[GIN] 2020/03/28 - 19:58:03 | 200 |     150.243µs |             ::1 | GET      "/swagger/doc.json"
-[GIN] 2020/03/28 - 19:58:03 | 200 |    6.380698ms |             ::1 | GET      "/swagger/favicon-32x32.png"
-[GIN] 2020/03/28 - 19:58:03 | 304 |      26.742µs |             ::1 | GET      "/swagger/favicon-32x32.png"
-[GIN] 2020/03/28 - 19:58:03 | 304 |      40.731µs |             ::1 | GET      "/swagger/favicon-32x32.png"
-[GIN] 2020/03/28 - 19:58:07 | 200 |     205.318µs |             ::1 | GET      "/api/v1/test/hello"
+[GIN] 2020/03/28 - 20:09:17 | 200 |     133.125µs |             ::1 | GET      "/swagger/index.html"
+[GIN] 2020/03/28 - 20:09:17 | 200 |     102.153µs |             ::1 | GET      "/swagger/swagger-ui.css"
+[GIN] 2020/03/28 - 20:09:17 | 200 |     510.821µs |             ::1 | GET      "/swagger/swagger-ui-bundle.js"
+[GIN] 2020/03/28 - 20:09:17 | 200 |     200.643µs |             ::1 | GET      "/swagger/swagger-ui-standalone-preset.js"
+[GIN] 2020/03/28 - 20:09:17 | 200 |     126.862µs |             ::1 | GET      "/swagger/doc.json"
+[GIN] 2020/03/28 - 20:09:17 | 200 |    4.870358ms |             ::1 | GET      "/swagger/favicon-32x32.png"
+[GIN] 2020/03/28 - 20:09:25 | 200 |     218.231µs |             ::1 | GET      "/api/v1/test/hello"

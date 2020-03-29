@@ -84,7 +84,7 @@ var SwaggerInfo = swaggerInfo{
 	Host:        "localhost:8080",
 	BasePath:    "/api/v1",
 	Schemes:     []string{},
-	Title:       "Experimento com Golang pra MicroServices",
+	Title:       "Experimento com Golang - MicroServices",
 	Description: "Api de Teste com Golang + Gin Web(https://github.com/gin-gonic/gin)",
 }
 

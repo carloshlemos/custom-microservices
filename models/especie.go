@@ -11,6 +11,7 @@ type Especie struct {
 	ChassiObrigatorio      bool   `gorm:"column:indi_chassi_obrig"`
 	NumeroSerieObrigatorio bool   `gorm:"column:indi_serie_obrig"`
 	ClasseID               uint   `gorm:"column:id_classe_bem_movel"`
+	Classe                 Classe
 	EspecieSigilosa        bool `gorm:"column:indi_especie_sigilosa"`
 }
 

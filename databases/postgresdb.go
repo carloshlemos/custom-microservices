@@ -6,7 +6,7 @@ import (
 	"github.com/jinzhu/gorm"
 
 	"../common"
-	"../models"
+	"./models"
 	_ "github.com/lib/pq"
 	log "github.com/sirupsen/logrus"
 )

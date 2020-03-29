@@ -13,7 +13,7 @@ info:
   description: Api de Teste com Golang + Gin Web(https://github.com/gin-gonic/gin)
   license: {}
   termsOfService: http://swagger.io/terms/
-  title: Experimento com Golang pra MicroServices
+  title: Experimento com Golang - MicroServices
   version: "1.0"
 paths:
   /test/hello:

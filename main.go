@@ -56,7 +56,7 @@ func (m *Main) initServer() error {
 	return nil
 }
 
-// @title Experimento com Golang pra MicroServices
+// @title Experimento com Golang - MicroServices
 // @version 1.0
 // @description Api de Teste com Golang + Gin Web(https://github.com/gin-gonic/gin)
 // @termsOfService http://swagger.io/terms/
